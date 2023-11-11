@@ -1,0 +1,51 @@
+.navbar {
+    width: 900px;
+    flex-direction: column;
+    /* position: sticky; */
+}
+/* .navbar::before {
+    position: sticky;
+} */
+
+#home {
+    width: 910px;
+}
+
+#home::before {
+    width: 920px;
+    height: 550px;
+}
+
+.services {
+    width: 920px;
+}
+
+/* .item p {
+    font-size: 1rem;
+} */
+
+/* .container{
+    flex-direction: column;
+
+}
+.container div img{
+    display: block;
+    margin: auto;
+} */
+
+.clients {
+    width: 920px;
+    /* flex-wrap: wrap; */
+}
+
+.clients::before {
+    width: 920px;
+}
+
+.contacts {
+    width: 900px;
+}
+
+footer {
+    width: 900px;
+}
